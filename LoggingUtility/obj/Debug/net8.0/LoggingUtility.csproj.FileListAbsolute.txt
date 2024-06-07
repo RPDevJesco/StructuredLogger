@@ -1,0 +1,14 @@
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\bin\Debug\net8.0\LoggingUtility.exe
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\bin\Debug\net8.0\LoggingUtility.deps.json
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\bin\Debug\net8.0\LoggingUtility.runtimeconfig.json
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\bin\Debug\net8.0\LoggingUtility.dll
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\bin\Debug\net8.0\LoggingUtility.pdb
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\obj\Debug\net8.0\LoggingUtility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\obj\Debug\net8.0\LoggingUtility.AssemblyInfoInputs.cache
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\obj\Debug\net8.0\LoggingUtility.AssemblyInfo.cs
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\obj\Debug\net8.0\LoggingUtility.csproj.CoreCompileInputs.cache
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\obj\Debug\net8.0\LoggingUtility.dll
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\obj\Debug\net8.0\refint\LoggingUtility.dll
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\obj\Debug\net8.0\LoggingUtility.pdb
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\obj\Debug\net8.0\LoggingUtility.genruntimeconfig.cache
+C:\Users\jglov\RiderProjects\LoggingUtility\LoggingUtility\obj\Debug\net8.0\ref\LoggingUtility.dll
